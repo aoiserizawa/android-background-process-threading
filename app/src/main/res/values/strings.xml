@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MultiThreading</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="imageUrls">
+        <item>http://cnet4.cbsistatic.com/hub/i/2011/10/27/a66dfbb7-fdc7-11e2-8c7c-d4ae52e62bcc/android-wallpaper5_2560x1600_1.jpg</item>
+        <item >https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbmTGKkR-Zc7E-DH0J6ZdyJ9IF5Pd9Rm9GCbMNyVJ5G0an0TAY</item>
+        <item >https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSajkXyrk37OAIxwG7E8z4xgOv6R-ETlkRkMf9YEwZjg_iybqEADQ</item>
+        <item >https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiAOGluY8q4hSgcoKsPAs_dK7r5BsF0yttwgjGazz4gIROgHkS</item>
+        <item >https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ63MIsiu_4j6yrptJ1T-zv24BZ3Zl8m8PgWBVALPD4cG6aZuAaIw</item>
+        <item >http://cdn.androidcommunity.com/wp-content/uploads/2011/12/android-jetpack-540x301.jpg</item>
+    </string-array>
+</resources>
